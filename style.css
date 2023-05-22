@@ -1,0 +1,47 @@
+#wrapper{
+    margin: auto;
+    width: 750px;
+    height: 500px;
+    background: #f9424b;
+}
+#change-color{
+    width: 250px;
+    height: 80px;
+    padding: 22px;
+    border-radius: 30px;
+    border-style: none;
+    background: #222222;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 40%;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    padding-top: 140px;
+    color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
